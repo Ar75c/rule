@@ -1,6 +1,8 @@
 DOMAIN,steamcdn-a.akamaihd.net,SteamDownload
 DOMAIN-SUFFIX,cm.steampowered.com,SteamDownload
 DOMAIN-SUFFIX,steamserver.net,SteamDownload
+DOMAIN-SUFFIX,xz.pphimalayanrt.com,SteamDownload
+DOMAIN-SUFFIX,dl.steam.clngaa.com,SteamDownload
 IP-CIDR,45.121.184.0/24,SteamDownload,no-resolve
 IP-CIDR,103.10.124.0/23,SteamDownload,no-resolve
 IP-CIDR,103.28.54.0/24,SteamDownload,no-resolve
